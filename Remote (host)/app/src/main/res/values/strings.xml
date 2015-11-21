@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Bluetooth Host</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="pair">Pair</string>
+    <string name="Conexion">conexion</string>
+    <string name="cero">0</string>
+    <string name="dPwm">Detailed Pulse Manipulation</string>
+    <string name="notConnected">Not Connected</string>
+    <string name="instructions">Instructions</string>
+</resources>

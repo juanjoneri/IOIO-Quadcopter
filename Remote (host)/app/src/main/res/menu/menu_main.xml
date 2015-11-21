@@ -1,0 +1,29 @@
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".MainActivity">
+
+    <item android:id="@+id/action_pair"
+        android:title="@string/pair"
+        android:icon="@mipmap/ic_bluetooth_black_24dp"
+        android:orderInCategory="100"
+        app:showAsAction="always" />
+
+    <item android:id="@+id/action_choose"
+        android:title="@string/pair"
+        android:icon="@mipmap/ic_checkbox_multiple_marked_black_24dp"
+        android:orderInCategory="200"
+        app:showAsAction="always" />
+
+    <item android:id="@+id/action_instructions"
+        android:title="@string/instructions"
+        android:orderInCategory="300"
+        android:icon="@mipmap/ic_school_black_18dp"
+        app:showAsAction="ifRoom" />
+
+    <item android:id="@+id/action_conection"
+        android:title="@string/Conexion"
+        android:orderInCategory="400"
+        app:showAsAction="never" />
+</menu>
