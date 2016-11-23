@@ -12,17 +12,15 @@ The project uses 2 phones running the android operating system. In particular, t
 ## Brain
 <img src="http://juanjoneri.me/img/Drone/brain_icon_app.png" width="150"/><br>
 One phone serves as the *"brains"* of the drone and therefore has to be mounted to the Quadcopter.<br>
-<img src="http://juanjoneri.me/img/Drone/Screen_brain.png" width="300"/>
-<p></p>
-<img src="http://juanjoneri.me/img/Drone/Screen_brain_2.png" width="300"/>
+<img src="http://juanjoneri.me/img/Drone/Screen_brain.png" hspace="20" width="300"/>
+<img src="http://juanjoneri.me/img/Drone/Screen_brain_2.png" hspace="20" width="300"/>
 
 ## Remote
 <img src="http://juanjoneri.me/img/Drone/controller_icon_app.png" width="150"/>
 
 The other phone is used as a remote. The user can use the remote to tweak the parameters of the PID model, and change the altitude of the drone with a slider as shown in the screens below.<br>
-<img src="http://juanjoneri.me/img/Drone/Screen_Controller.png" width="300"/>
-<p></p>
-<img src="http://juanjoneri.me/img/Drone/Screen_Controller_2.png" width="300"/>
+<img src="http://juanjoneri.me/img/Drone/Screen_Controller.png" hspace="20" width="300"/>
+<img src="http://juanjoneri.me/img/Drone/Screen_Controller_2.png" hspace="20" width="300"/>
 
 ## Hardware
 
