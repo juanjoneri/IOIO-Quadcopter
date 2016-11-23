@@ -1,6 +1,9 @@
 # Android Powered Quadcopter
 ![Logo](http://juanjoneri.me/img/Drone/Drone-Logo.png)<br>
 
+**Download APK above!**
+*Requires API 21 or higher*
+
 ## Tallerine
 > El Tallerine (Taller de Introducción a la Ingeniería Eléctrica) es una nueva iniciativa de la Facultad de Ingeniería que apunta a introducir a los estudiantes a la Ingeniería Eléctrica de una manera más práctica, activa y creativa.
 
