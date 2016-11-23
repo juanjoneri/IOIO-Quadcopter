@@ -10,6 +10,9 @@
 ## Project
 The objective of this project was to use the rich set of sensors that we have in our phones to stablish a closed loop control system for a drone. The phone communicates with the rotors using the IOIO OTG board and updates the specific speed of each one 60 times a second using a PID model with the data collected from the gyroscope and accelerometer.
 
+## Infographic
+<img src="http://juanjoneri.me/img/ioioPoster.jpg"/>
+
 ## Instructions
 The project uses 2 phones running the android operating system. In particular, two phones that can stablish a Bluetooth communication and have gyroscope and accelerometer built in.
 ## Brain
