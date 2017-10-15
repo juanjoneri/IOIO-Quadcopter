@@ -1,5 +1,5 @@
 # Android Powered Quadcopter
-![Logo](http://juanjoneri.me/img/Drone/Drone-Logo.png)<br>
+![Logo](http://juanjoneri.com/img/Drone/Drone-Logo.png)<br>
 
 **Download APK above!**
 *Requires API 21 or higher*
